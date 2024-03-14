@@ -1001,14 +1001,14 @@ Set requirement for reading "Loop Rest" or later.
 06
 
 040A0100
-Sub Actions 0A
-Unknown. Set Sub Action ID?
-
+Add 2nd Anim Chr
+Takes in a value that appears to be the subaction that it targets the animation of? "These are how shield and fall have a main animation with a second animation like drawing over it, might have some specific hardcoding with them/module coding sadly".
+0
 
 040B0100
-Sub Actions 0B
-Unknown. Set Frame Speed?
-
+Set 2nd Anim Frame Speed
+Sets 2nd anim's Frame Speed? "These are how shield and fall have a main animation with a second animation like drawing over it, might have some specific hardcoding with them/module coding sadly".
+1
 
 04080300
 Set Bone Motion Override
@@ -1053,6 +1053,11 @@ Sets the Frame Speed Modifier for "Set Texture Motion Override".
 04140100
 Set Animation & Timer Frame
 Changes the current frame of the animation and timers.
+1
+
+04150100
+Set Bone Motion Override's Animation & Timer Frame
+Changes the current frame of the animation and timers for the current Bone Motion Override.
 1
 
 04180100
