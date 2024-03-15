@@ -35,10 +35,10 @@ Light Item is in Grabbing Range
 Heavy Item is in Grabbing Range
 Item of Type(?) is in Grabbing Range
 Turning with Item
-Partial Animation End?
-Partial Animation Loop?
-Secondary Animation End?
-Secondary Animation Loop?
+Secondary Animation End (Texture Motion Override)?
+Secondary Animation Loop (Texture Motion Override)?
+Partial Animation End (Bone Motion Override)
+Partial Animation Loop (Bone Motion Override)
 False
 Is in Water
 Roll A Die
