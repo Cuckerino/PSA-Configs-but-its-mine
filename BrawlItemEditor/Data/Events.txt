@@ -1660,6 +1660,10 @@ Set Constant Model Rotation
 Sets the models rotation constantly (pitch, yaw, roll)
 111
 
+66070000
+Stop Item Momentum
+Seems to immediately stop all momentum in an item, used in Party Ball. 
+
 65040100
 Set Deletion Timer
 Sets the time of deletion (in hexadecimals)
