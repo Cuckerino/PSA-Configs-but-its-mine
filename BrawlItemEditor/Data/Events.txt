@@ -1732,6 +1732,17 @@ sets the timer (la-basic 11, not la-basic 6), doesn't disappear normally, howeve
 Detach
 Detaches the current item to let go again.
 
+65010000
+Generate Random Item
+Calls an item from the ItmGen table in Common3, used in container items (Crates, Rolling Crates, Etc).
+Additional parameters allow you to specify which one.
+011
+
+080A0100
+Collision Data Toggle
+Toggles the collision data of an item on/off, used in container items (Crate, Rolling Crate, etc).
+3
+
 081A0100
 Unknown Boolean
 It turns on some flag with no helpful function call, it takes one bool as argument though.
