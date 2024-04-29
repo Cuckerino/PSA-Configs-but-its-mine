@@ -1207,7 +1207,7 @@ V
 000000B1-Dr. Wright Building
 XDefault-Undefined(\X), \X, \X, \X, \X, \X
 
-65010000
+65010100
 V
 00000000-Assist Trophy
 00000001-Franklin Badge
