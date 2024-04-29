@@ -1986,6 +1986,12 @@ Dictates whether or not the item should be capable of being picked up. 0x0 = Can
 Stick State
 Modifies the model to reflect the current inclination of whatever surface its attached to, during this state it cant be moved. 0x0 = Release from surface, 0x2 = Sort of sticks to surfaces (Model isnt rotated against them),  0x3 = Sticks to surface.
 
+65170200
+Ground Sound Effect
+Landing/collision bounce SFX id (sets la-basic 24).
+Water Sound Effect
+Entering Water SFX id (sets la-basic 25).
+
 66000A00
 X Speed
 Amount of speed the X value should receive.
