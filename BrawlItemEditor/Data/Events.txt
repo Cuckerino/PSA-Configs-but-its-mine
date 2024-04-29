@@ -1641,6 +1641,10 @@ Sets the hitlag on the current move.
 Set GFX Animation Index (Custom)
 Sets the animation ID for the chosen GFX, clears after GFX spawn. This command must be placed before using your desired Graphic Effect command. Requires Eon's "Set Anim Index" code.
 
+65170200
+Set Landing and Water Sound
+Determines what SFX to play when landing on terrain or entering water.
+
 65000000
 Destroy Item
 Destroys the current item
