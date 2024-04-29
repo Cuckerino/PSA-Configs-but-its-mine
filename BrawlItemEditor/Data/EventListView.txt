@@ -1207,6 +1207,188 @@ V
 000000B1-Dr. Wright Building
 XDefault-Undefined(\X), \X, \X, \X, \X, \X
 
+65010000
+V
+00000000-Assist Trophy
+00000001-Franklin Badge
+00000002-Banana Peel
+00000003-Barrel
+00000004-Beam Sword
+00000005-Dollar Bill
+00000006-Bob-Omb
+00000007-Crate
+00000008-Bumper
+00000009-Capsule
+0000000A-Rolling Crate
+0000000B-CD
+0000000C-Gooey Bomb
+0000000D-Cracker Launcher
+0000000E-Cracker Launcher Shot
+0000000F-Coin
+00000010-Superspicy Curry/Turbo
+00000011-Superspicy Curry Shot
+00000012-Deku Nut
+00000013-Mr. Saturn
+00000014-Dragoon Part
+00000015-Dragoon Set
+00000016-Dragoon Sight
+00000017-Trophy
+00000018-Fire Flower
+00000019-Fire Flower Shot
+0000001A-Freezie
+0000001B-Golden Hammer
+0000001C-Green Shell
+0000001D-Hammer
+0000001E-Hammer Head
+0000001F-Fan
+00000020-Heart Container
+00000021-Homerun Bat
+00000022-Party Ball
+00000023-Manaphy Heart
+00000024-Maximum Tomato
+00000025-Poison Mushroom
+00000026-Super Mushroom
+00000027-Metal Box
+00000028-Hothead
+00000029-Pitfall
+0000002A-Poké Ball
+0000002B-Blast Box
+0000002C-Ray Gun
+0000002D-Ray Gun Shot
+0000002E-Lip's Stick
+0000002F-Lip's Stick Flower
+00000030-Lip's Stick Shot
+00000031-Sandbag
+00000032-Screw Attack
+00000033-Sticker
+00000034-Motion-Sensor Bomb
+00000035-Timer
+00000036-Smart Bomb
+00000037-Smash Ball
+00000038-Smoke Ball
+00000039-Spring
+0000003A-Star Rod
+0000003B-Star Rod Shot
+0000003C-Soccer Ball
+0000003D-Super Scope
+0000003E-Super Scope Shot
+0000003F-Starman
+00000040-Food
+00000041-Team Healer
+00000042-Lightning
+00000043-Urina
+00000044-Bunny Hood
+00000045-Warp Star
+00000046-Trophy (Subspace only)
+00000047-Key (Subspace only)
+00000048-Trophy Stand (Subspace only)
+00000049-Stock Ball (Subspace only)
+0000004A-Apple (Green Greens only)
+0000004B-Sidestepper (Mario Bros. only)
+0000004C-Shellcreeper (Mario Bros. only)
+0000004D-Pellet (Distant Planet only)
+0000004E-Vegetable (Summit only)
+0000004F-Sandbag (Homerun Contest only)
+00000050-Auroros (Subspace only)
+00000051-Koopa Shell (Subspace only)
+00000052-Koopa Shell (Subspace only)
+00000053-Cardboard Box (Snake only)
+00000054-Peanut (Diddy Kong only)
+00000055-Bomb (Link only)
+00000056-Turnip (Peach only)
+00000057-Gyro (R.O.B. only)
+00000058-Peanut Seed (Diddy Kong only)
+00000059-Grenade (Snake only)
+0000005A-Varia Suit Armor Piece (Zero Suit Samus only)
+0000005B-Bomb (Toon Link only)
+0000005C-Bike (Wario only)
+0000005D Bike Piece A (Wario only)
+0000005E-Bike Piece B (Wario only)
+0000005F-Bike Piece C (Wario only)
+00000060-Bike Piece D (Wario only)
+00000061-Bike Piece E (Wario only)
+00000062-Torchic
+00000063-Celebi
+00000064-Chikorita
+00000065-Chikorita Shot
+00000066-Entei
+00000067-Moltres
+00000068-Munchlax
+00000069-Deoxys
+0000006A-Groudon
+0000006B-Gulpin
+0000006C-Staryu
+0000006D-Staryu Shot
+0000006E-Ho-Oh
+0000006F-Ho-Oh Shot
+00000070-Jirachi
+00000071-Snorlax
+00000072-Bellossom
+00000073-Kyogre
+00000074-Kyogre Shot
+00000075-Latios/Latias
+00000076-Lugia
+00000077-Lugia Shot
+00000078-Manaphy
+00000079-Weavile
+0000007A-Electrode
+0000007B-Metagross
+0000007C-Mew
+0000007D-Meowth
+0000007E-Meowth Shot
+0000007F-Piplup
+00000080-Togepi
+00000081-Goldeen
+00000082-Gardevoir
+00000083-Wobbuffet
+00000084-Suicune
+00000085-Bonsly
+00000086-Andross
+00000087-Andross Shot
+00000088-Barbara
+00000089-Gray Fox
+0000008A-Ray MK II
+0000008B-Ray MK II Bomb
+0000008C-Ray MK II Shot
+0000008D-Samurai Goroh
+0000008E-Devil
+0000008F-Excitebike
+00000090-Jeff
+00000091-Jeff Pencil Bullet
+00000092-Jeff Pencil Rocket
+00000093-Lakiyu
+00000094-Knuckle Joe
+00000095-Knuckle Joe Shot
+00000096-Hammer Bro.
+00000097-Hammer Bro. Hammer
+00000098-Helirin
+00000099-Kat & Ana
+0000009A-Ana
+0000009B-Jill & Drill Dozer
+0000009C-Lyn
+0000009D-Little Mac
+0000009E-Metroid
+0000009F-Nintendog
+000000A0-Nintendog (Full-Size)
+000000A1-Mr. Resetti
+000000A2-Isaac
+000000A3-Isaac Shot
+000000A4-Saki
+000000A5-Saki Shot 1
+000000A6-Saki Shot 2
+000000A7-Shadow
+000000A8-Infantry
+000000A9-Infantry Shot
+000000AA-Stafy
+000000AB-Tank (Infantry)
+000000AC-Tank Shot
+000000AD-Tingle
+000000AE-Lakitu Shot
+000000AF-Waluigi
+000000B0-Dr. Wright
+000000B1-Dr. Wright Building
+XDefault-Undefined(\X), \X, \X
+
 65040100
 1
 frames=\X
