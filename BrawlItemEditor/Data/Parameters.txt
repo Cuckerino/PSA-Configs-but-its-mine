@@ -2096,6 +2096,18 @@ Amount to rotate the model on the Y-Axis.
 X Rotation
 Amount to rotate the model on the X-Axis.
 
+080A0100
+Boolean
+On = Can interact with collisions, Off = Can't.
+
+65010000
+Item ID?
+What item from the table should spawn.
+Unknown Float 1
+Could be related to position?.
+Unknown Float 2
+Could be related to position?:
+
 66010300
 Z Rotation
 Amount to rotate the model on the Z-Axis.
