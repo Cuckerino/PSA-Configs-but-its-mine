@@ -1215,6 +1215,10 @@ frames=\X
 1
 frames=\X
 
+65170200
+1
+Ground SFX ID=\X, Water SFX ID=\X
+
 651F0100
 V
 00000000-Can be picked up
