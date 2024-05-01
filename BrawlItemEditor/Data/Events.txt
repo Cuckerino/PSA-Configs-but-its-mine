@@ -1707,12 +1707,12 @@ Metroid Schmovement???
 
 66000A00
 Apply Momentum
-Alters the item's vertical and horizontal speed. Overrides any current momentum with the one inputted. Also seems to override current/future momentum restrictions like "Prevent horizontal gravity" or "Stop Item Momentum".
+Alters the item's vertical and horizontal speed. Simply adds momentum on top of the existing one.
 1111111111
 
 66000D00
 Apply Momentum & Direction Speed
-Alters the item's vertical. horizontal speed and whether or not its based on its direction. Overrides any current momentum with the one inputted. Also seems to override current/future momentum restrictions like "Prevent horizontal gravity" or "Stop Item Momentum".
+Alters the item's vertical. horizontal speed and whether or not its based on its direction. Simply adds momentum on top of the existing one.
 1111111111333
 
 66020300
