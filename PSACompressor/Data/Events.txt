@@ -148,7 +148,7 @@ Change the current action upon the specified requirement being met. The requirem
 006
 
 02000400
-Change Action Status: Requirement Value
+Change Action Status: Value
 Change the current action upon the specified requirement being met. The requirement does not have to be met at the time this ID is executed - it can be used anytime after execution. This Change Action Status is based on a requirement with a specified value being met.
 0065
 
@@ -163,7 +163,7 @@ Change the current action upon the specified requirement being met. The requirem
 06
 
 02010300
-Change Action: Requirement Value
+Change Action: Value
 Change the current action upon the specified requirement being met. The requirement does not have to be met at the time this ID is executed - it can be used anytime after execution. This Change Action is based on a requirement with a specified value being met.
 065
 
@@ -193,7 +193,7 @@ Add an additional requirement to the preceeding Change Action statement. This Ad
 6
 
 02040200
-Additional Action Requirement: Requirement Value
+Additional Action Requirement: Value
 Add an additional requirement to the preceeding Change Action statement. This Additional Action Requirement is based on a requirement with a specified value being met.
 65
 
@@ -208,7 +208,7 @@ Links a Status ID with an interrupt, which will only allow the interrupt to exec
 006
 
 02050400
-Set Status ID Interrupt: Requirement Value
+Set Status ID Interrupt: Value
 Links a Status ID with an interrupt, which will only allow the interrupt to execute (or prevent) the Status ID. This Set Status ID Interrupt is based on a requirement with a specified value being met. (Warning: Persists globally and can cause memory leaks. Recommended for the on-load routine.)
 0065
 
