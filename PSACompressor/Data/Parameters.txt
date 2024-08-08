@@ -1970,7 +1970,31 @@ The frame speed to set the Motion Override to.
 
 11210100
 Animation ID
-The animation for the GFX to use.
+Which animation should the GFX use.
+
+11210200
+Animation ID
+Which animation should the GFX use.
+Animation Frame (CLR, PAT, VIS)
+Which frame should the animation freeze on, useful for costume dependent GFX.
+
+11210300
+Animation ID
+Which animation should the GFX use.
+Animation Frame (PAT, VIS)
+Which frame should the animation freeze on, useful for costume dependent GFX.
+Animation Frame (CLR)
+Which frame should the animation freeze on, useful for costume dependent GFX.
+
+11210300
+Animation ID
+Which animation should the GFX use.
+Animation Frame (PAT)
+Which frame should the animation freeze on, useful for costume dependent GFX.
+Animation Frame (CLR)
+Which frame should the animation freeze on, useful for costume dependent GFX.
+Animation Frame (VIS)
+Which frame should the animation freeze on, useful for costume dependent GFX.
 
 08050400
 Top Vertical Point
