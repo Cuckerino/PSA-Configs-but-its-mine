@@ -482,6 +482,22 @@ Multiply Frame Speed Modifier
 Multiplies the current Frame Speed. Example: Setting to 2 will multiply the current Frame Speed by 2.
 10
 
+0C0D0000
+Reset Stage Speed
+Return stage speed to default speed.
+
+0C0C0000
+Slow Stage Speed
+Slow down the progress of the stage.
+
+0C0E0000
+Stop Stage Speed
+Stop the progress of the stage. (Note: If use it in Subspace, will not be able to proceed.)
+
+0C0F0000
+Slow Stage Speed?
+Slow down the progress of the stage?
+
 0C230200
 Time Manipulation
 Change the speed of time for various parts of the environment. Scalar=time stop, Value=slow time. If you use a Scalar in parameter 0, then use parameter 1 to a value set how long time stops. if you use a value in parameter 0, use parameter 1 to set a value how long time slows. Using a scalar in parameter 0 and 1 will stop time forever.
