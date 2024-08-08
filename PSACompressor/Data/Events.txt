@@ -48,7 +48,7 @@ Start an If block until an Else or an End If is reached. Use this If to check fo
 6
 
 000A0200
-If: Requirement Value
+If: Value
 Start an If block until an Else or an End If is reached. Use this If to check for a requirement with a specified value.
 65
 
@@ -63,7 +63,7 @@ Insert an And statement to an If statement. Use this And to check for a requirem
 6
 
 000B0200
-And: Requirement Value
+And: Value
 Insert an And statement to an If statement. Use this And to check for a requirement with a specified value.
 65
 
@@ -78,7 +78,7 @@ Insert an Or statement to an If statement. Use this And to check for a requireme
 6
 
 000C0200
-Or: Requirement Value
+Or: Value
 Insert an Or statement to an If statement. Use this Or to check for a requirement with a specified value.
 65
 
