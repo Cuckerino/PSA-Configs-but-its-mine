@@ -274,6 +274,22 @@ power(\X, \X) = \X
 1
 pi = \X
 
+11210100
+1
+ID=\X
+
+11210200
+1
+ID=\X, CLR/VIS/PAT Frame=\X
+
+11210300
+1
+ID=\X, VIS/PAT Frame=\X, CLR Frame=\X
+
+11210400
+1
+ID=\X, PAT Frame=\X, CLR Frame=\X, VIS Frame=\X
+
 061B0500
 1
 ID=\X, Bone=\X, X Offset=\X, Y Offset=\X, Z Offset=\X
