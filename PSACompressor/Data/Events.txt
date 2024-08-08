@@ -1665,7 +1665,7 @@ Sets the hitlag on the current move.
 
 11210100
 Set GFX Animation Index (Custom)
-Sets the animation ID for the chosen GFX, clears after GFX spawn. This command must be placed before using your desired Graphic Effect command. Requires Eon's "Set Anim Index" code.
+Sets the animation ID for the chosen GFX, clears after GFX spawn. This command must be placed before using your desired Graphic Effect command. Requires Eon's "Set Anim Index" code. If you have DukeItOut's version of the code, you can add up to 3 additional parameters. These will freeze the CLR/VIS/PAT animations on whatever frame you put in.
 
 
 08050400
