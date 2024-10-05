@@ -1686,7 +1686,11 @@ Set Ownership Interactibility 2
 
 651F0100
 Grabbable state
-Determines wheter or not the item can be picked up by players or not.
+Determines whether or not the item can be picked up by players or not.
+
+651E0100
+Force Grabbable state(?
+When set to 2, it allows the item to be picked up in situations were the "Grabblable state" event wouldnt allow so. Doesnt seem to react to any other value other than 2.
 
 66060100
 Stick to Surface
